@@ -6,11 +6,11 @@
     
 </template>
 <script>
-import {mapState,mapMutations} from "vuex"
+// import {mapState,mapMutations} from "vuex"
 export default {
     data(){
         return{
-        haha:"我叫张争辉"
+        haha:"这里"
         }
     },
     methods:{
