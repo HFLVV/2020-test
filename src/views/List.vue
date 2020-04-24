@@ -10,7 +10,7 @@ import {mapState,mapMutations} from "vuex"
 export default {
     data(){
         return{
-        haha:"中国"
+        haha:"我叫张争辉"
         }
     },
     methods:{

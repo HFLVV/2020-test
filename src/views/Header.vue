@@ -1,6 +1,6 @@
 <template>
     <div>
-        这里是首页{{haha}}
+        这里是首页我叫张争辉git{{haha}}
         <el-table
       :data="tableData"
       style="width: 100%">
